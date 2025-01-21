@@ -37,13 +37,13 @@ MSE, MAE, R-squared on training and test data, results suggest overfitting.
 
 Thoughts and Implementation : 
 
-- Extensive LSTM Network: The initial approach aimed for a simple LSTM network .
+- Simple LSTM Network: The initial approach used a simple LSTM network than an extensive network.
 - ReLU Activation: ReLU was used in the final layer to ensure non-negative predictions as the output ranges (0,inf)
-- PyTorch Padding: Utilizing PyTorch's built-in padding functions streamlined data processing. 
+- PyTorch Padding: Utilizing PyTorch's built-in padding functions streamlined data processing than custom padding. 
 - Hyperparameter Tuning for Variable Length DNA Sequence: Comprehensive hyperparameter tuning is essential, but a time-intensive process.
-- Retraining for Variable Lengths: Retraining was done to ensure accurate results when the DNA integer mapping changed.
+- Retraining for Variable Lengths: Retraining was done as the input sequences changed for Variable Length DNA Sequences.
 - Padding Value Update: Padding value was changed to 1000 to avoid interfering with training with variable-length inputs.
-- Custom Layer Addition: Planned addition of custom layers was omitted due to time constraints and could be explored in further iterations.
+- Custom Layer Addition: Planned addition of custom layers like LayerNormalization and etc was omitted due to time constraints and could be explored in further iterations.
 
 Major Reasons:
 - Time : Due to time constraints, some of the more time-intensive evaluation into alternatives and more comprehensive hyperparameter tuning.
