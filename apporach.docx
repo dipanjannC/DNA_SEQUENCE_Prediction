@@ -9,15 +9,21 @@ Training: Adam optimizer, MSE loss, Optuna hyperparameter tuning (hidden size, l
 
 1. How you arrived at this approach and why you believe it is the most suitable for this task.
 
+Approach and Rationale:
+This problem involves regression on sequential data, and the approach was designed to address this task effectively.
+
 Key Steps: 
-1. Understanding the data generated. 
-2. Create baseline model.
-3. Choosing loss and optimizer functions.
-4. Hyperparameter Tuning.
-5. Evaluation.
+1. Understanding the data: Analyzing the data characteristics helped define input-output relationships and identify trends critical for regression.
+2. Baseline model: A simple linear regression model was created to set a benchmark for improvement.
+3. Choosing loss and optimizer functions: MSE was selected as the loss function due to its suitability for regression, and Adam optimizer was chosen for its adaptive learning capabilities.
+4. Hyperparameter Tuning: Optuna was employed to systematically explore hyperparameters for the LSTM model.
+5. Evaluation: Metrics such as MSE, MAE, and R-squared were calculated to assess performance.
 
 Implementation:
-A basic LSTM was chosen, combined with a fully connected layer for regression, and a ReLU activation for positive output.
+This approach was chosen for its ability to leverage LSTMs, which are highly effective for sequential data due to their capability to capture long-term dependencies.
+Information is managed through a mechanism called cell states, allowing LSTMs to selectively remember or forget things.
+
+A basic LSTM network was created, combined with a fully connected layer for regression, and a ReLU activation for positive output.
 
 Hyperparameter Tuning with Optuna:
 Given the number of hyperparameters involved with an LSTM, it makes sense to use Optuna.
