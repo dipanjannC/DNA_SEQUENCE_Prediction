@@ -1,0 +1,520 @@
+2025-01-20 13:48:26,146 - CpG_Detector - INFO - LSTM_HIDDEN: 128
+2025-01-20 13:48:26,148 - CpG_Detector - INFO - LSTM_LAYER: 2
+2025-01-20 13:48:26,149 - CpG_Detector - INFO - Learning Rate: 0.0005
+2025-01-20 13:48:26,150 - CpG_Detector - INFO - Epochs: 5
+2025-01-20 13:48:26,151 - CpG_Detector - INFO - Mean Squared Error (MSE): 4.1582
+2025-01-20 13:48:26,151 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.5723
+2025-01-20 13:48:26,152 - CpG_Detector - INFO - R-squared: -0.0003
+2025-01-20 13:50:35,938 - CpG_Detector - INFO - LSTM_HIDDEN: 128
+2025-01-20 13:50:35,941 - CpG_Detector - INFO - LSTM_LAYER: 2
+2025-01-20 13:50:35,942 - CpG_Detector - INFO - Learning Rate: 0.005
+2025-01-20 13:50:35,942 - CpG_Detector - INFO - Epochs: 3
+2025-01-20 13:50:35,943 - CpG_Detector - INFO - Mean Squared Error (MSE): 4.1582
+2025-01-20 13:50:35,943 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.5723
+2025-01-20 13:50:35,944 - CpG_Detector - INFO - R-squared: -0.0003
+2025-01-20 13:51:26,984 - CpG_Detector - INFO - LSTM_HIDDEN: 128
+2025-01-20 13:51:26,985 - CpG_Detector - INFO - LSTM_LAYER: 2
+2025-01-20 13:51:26,986 - CpG_Detector - INFO - Learning Rate: 0.005
+2025-01-20 13:51:26,987 - CpG_Detector - INFO - Epochs: 3
+2025-01-20 13:51:26,987 - CpG_Detector - INFO - Mean Squared Error (MSE): 40.6035
+2025-01-20 13:51:26,988 - CpG_Detector - INFO - Mean Absolute Error (MAE): 6.0371
+2025-01-20 13:51:26,989 - CpG_Detector - INFO - R-squared: -8.7679
+2025-01-20 13:55:12,879 - CpG_Detector - INFO - LSTM_HIDDEN: 128
+2025-01-20 13:55:12,880 - CpG_Detector - INFO - LSTM_LAYER: 2
+2025-01-20 13:55:12,881 - CpG_Detector - INFO - Learning Rate: 0.001
+2025-01-20 13:55:12,882 - CpG_Detector - INFO - Epochs: 8
+2025-01-20 13:55:12,882 - CpG_Detector - INFO - Mean Squared Error (MSE): 4.1582
+2025-01-20 13:55:12,883 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.5723
+2025-01-20 13:55:12,883 - CpG_Detector - INFO - R-squared: -0.0003
+2025-01-20 13:59:00,992 - CpG_Detector - INFO - LSTM_HIDDEN: 32
+2025-01-20 13:59:00,993 - CpG_Detector - INFO - LSTM_LAYER: 2
+2025-01-20 13:59:00,994 - CpG_Detector - INFO - Learning Rate: 0.001
+2025-01-20 13:59:00,995 - CpG_Detector - INFO - Epochs: 8
+2025-01-20 13:59:00,995 - CpG_Detector - INFO - Mean Squared Error (MSE): 4.1602
+2025-01-20 13:59:00,996 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.5742
+2025-01-20 13:59:00,996 - CpG_Detector - INFO - R-squared: -0.0008
+2025-01-20 14:06:55,450 - CpG_Detector - INFO - LSTM_HIDDEN: 128
+2025-01-20 14:06:55,452 - CpG_Detector - INFO - LSTM_LAYER: 2
+2025-01-20 14:06:55,453 - CpG_Detector - INFO - Learning Rate: 0.001
+2025-01-20 14:06:55,453 - CpG_Detector - INFO - Epochs: 8
+2025-01-20 14:06:55,454 - CpG_Detector - INFO - Mean Squared Error (MSE): 4.1582
+2025-01-20 14:06:55,454 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.5723
+2025-01-20 14:06:55,455 - CpG_Detector - INFO - R-squared: -0.0003
+2025-01-20 14:10:39,766 - CpG_Detector - INFO - LSTM_HIDDEN: 128
+2025-01-20 14:10:39,768 - CpG_Detector - INFO - LSTM_LAYER: 2
+2025-01-20 14:10:39,768 - CpG_Detector - INFO - Learning Rate: 0.001
+2025-01-20 14:10:39,769 - CpG_Detector - INFO - Epochs: 8
+2025-01-20 14:10:39,769 - CpG_Detector - INFO - Mean Squared Error (MSE): 4.1992
+2025-01-20 14:10:39,770 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.5742
+2025-01-20 14:10:39,770 - CpG_Detector - INFO - R-squared: -0.0102
+2025-01-20 14:12:28,476 - CpG_Detector - INFO - LSTM_HIDDEN: 128
+2025-01-20 14:12:28,477 - CpG_Detector - INFO - LSTM_LAYER: 2
+2025-01-20 14:12:28,478 - CpG_Detector - INFO - Learning Rate: 0.001
+2025-01-20 14:12:28,479 - CpG_Detector - INFO - Epochs: 8
+2025-01-20 14:12:28,480 - CpG_Detector - INFO - Dropout: 0.2
+2025-01-20 14:12:28,482 - CpG_Detector - INFO - Mean Squared Error (MSE): 4.1895
+2025-01-20 14:12:28,483 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.5879
+2025-01-20 14:12:28,484 - CpG_Detector - INFO - R-squared: -0.0078
+2025-01-20 14:12:56,602 - CpG_Detector - INFO - LSTM_HIDDEN: 128
+2025-01-20 14:12:56,603 - CpG_Detector - INFO - LSTM_LAYER: 5
+2025-01-20 14:12:56,604 - CpG_Detector - INFO - Learning Rate: 0.001
+2025-01-20 14:12:56,604 - CpG_Detector - INFO - Epochs: 8
+2025-01-20 14:12:56,605 - CpG_Detector - INFO - Dropout: 0.2
+2025-01-20 14:12:56,605 - CpG_Detector - INFO - Mean Squared Error (MSE): 4.1582
+2025-01-20 14:12:56,605 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.5723
+2025-01-20 14:12:56,606 - CpG_Detector - INFO - R-squared: -0.0003
+2025-01-20 14:13:39,940 - CpG_Detector - INFO - LSTM_HIDDEN: 128
+2025-01-20 14:13:39,942 - CpG_Detector - INFO - LSTM_LAYER: 2
+2025-01-20 14:13:39,942 - CpG_Detector - INFO - Learning Rate: 0.0001
+2025-01-20 14:13:39,942 - CpG_Detector - INFO - Epochs: 50
+2025-01-20 14:13:39,943 - CpG_Detector - INFO - Dropout: 0.2
+2025-01-20 14:13:39,943 - CpG_Detector - INFO - Mean Squared Error (MSE): 4.4375
+2025-01-20 14:13:39,944 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.6602
+2025-01-20 14:13:39,945 - CpG_Detector - INFO - R-squared: -0.0675
+2025-01-20 14:15:39,379 - CpG_Detector - INFO - LSTM_HIDDEN: 256
+2025-01-20 14:15:39,380 - CpG_Detector - INFO - LSTM_LAYER: 2
+2025-01-20 14:15:39,381 - CpG_Detector - INFO - Learning Rate: 0.0001
+2025-01-20 14:15:39,381 - CpG_Detector - INFO - Epochs: 50
+2025-01-20 14:15:39,381 - CpG_Detector - INFO - Dropout: 0.2
+2025-01-20 14:15:39,382 - CpG_Detector - INFO - Mean Squared Error (MSE): 4.8945
+2025-01-20 14:15:39,382 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.7578
+2025-01-20 14:15:39,383 - CpG_Detector - INFO - R-squared: -0.1775
+2025-01-20 14:16:21,809 - CpG_Detector - INFO - LSTM_HIDDEN: 256
+2025-01-20 14:16:21,811 - CpG_Detector - INFO - LSTM_LAYER: 2
+2025-01-20 14:16:21,812 - CpG_Detector - INFO - Learning Rate: 0.0003
+2025-01-20 14:16:21,812 - CpG_Detector - INFO - Epochs: 50
+2025-01-20 14:16:21,813 - CpG_Detector - INFO - Dropout: 0.2
+2025-01-20 14:16:21,813 - CpG_Detector - INFO - Mean Squared Error (MSE): 29.5293
+2025-01-20 14:16:21,814 - CpG_Detector - INFO - Mean Absolute Error (MAE): 5.0371
+2025-01-20 14:16:21,814 - CpG_Detector - INFO - R-squared: -6.1038
+2025-01-20 14:23:00,720 - CpG_Detector - INFO - LSTM_HIDDEN: 256
+2025-01-20 14:23:00,721 - CpG_Detector - INFO - LSTM_LAYER: 2
+2025-01-20 14:23:00,722 - CpG_Detector - INFO - Learning Rate: 0.0003
+2025-01-20 14:23:00,722 - CpG_Detector - INFO - Epochs: 50
+2025-01-20 14:23:00,723 - CpG_Detector - INFO - Dropout: 0.2
+2025-01-20 14:23:00,723 - CpG_Detector - INFO - Mean Squared Error (MSE): 5.2832
+2025-01-20 14:23:00,724 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.8457
+2025-01-20 14:23:00,724 - CpG_Detector - INFO - R-squared: -0.2710
+2025-01-20 14:40:12,631 - CpG_Detector - INFO - LSTM_HIDDEN: 256
+2025-01-20 14:40:12,634 - CpG_Detector - INFO - LSTM_LAYER: 2
+2025-01-20 14:40:12,635 - CpG_Detector - INFO - Learning Rate: 0.0005
+2025-01-20 14:40:12,635 - CpG_Detector - INFO - Epochs: 50
+2025-01-20 14:40:12,636 - CpG_Detector - INFO - Dropout: 0.2
+2025-01-20 14:40:12,636 - CpG_Detector - INFO - Mean Squared Error (MSE): 5.5098
+2025-01-20 14:40:12,636 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.8809
+2025-01-20 14:40:12,637 - CpG_Detector - INFO - R-squared: -0.3255
+2025-01-20 14:48:42,535 - CpG_Detector - INFO - LSTM_HIDDEN: 256
+2025-01-20 14:48:42,537 - CpG_Detector - INFO - LSTM_LAYER: 2
+2025-01-20 14:48:42,537 - CpG_Detector - INFO - Learning Rate: 0.0005
+2025-01-20 14:48:42,538 - CpG_Detector - INFO - Epochs: 50
+2025-01-20 14:48:42,538 - CpG_Detector - INFO - Dropout: 0.2
+2025-01-20 14:48:42,539 - CpG_Detector - INFO - Mean Squared Error (MSE): 5.4160
+2025-01-20 14:48:42,539 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.8184
+2025-01-20 14:48:42,539 - CpG_Detector - INFO - R-squared: -0.3029
+2025-01-20 14:49:23,743 - CpG_Detector - INFO - LSTM_HIDDEN: 256
+2025-01-20 14:49:23,745 - CpG_Detector - INFO - LSTM_LAYER: 2
+2025-01-20 14:49:23,745 - CpG_Detector - INFO - Learning Rate: 0.001
+2025-01-20 14:49:23,746 - CpG_Detector - INFO - Epochs: 50
+2025-01-20 14:49:23,746 - CpG_Detector - INFO - Dropout: 0.2
+2025-01-20 14:49:23,747 - CpG_Detector - INFO - Mean Squared Error (MSE): 29.5293
+2025-01-20 14:49:23,747 - CpG_Detector - INFO - Mean Absolute Error (MAE): 5.0371
+2025-01-20 14:49:23,748 - CpG_Detector - INFO - R-squared: -6.1038
+2025-01-20 14:50:54,625 - CpG_Detector - INFO - LSTM_HIDDEN: 256
+2025-01-20 14:50:54,628 - CpG_Detector - INFO - LSTM_LAYER: 2
+2025-01-20 14:50:54,629 - CpG_Detector - INFO - Learning Rate: 0.001
+2025-01-20 14:50:54,629 - CpG_Detector - INFO - Epochs: 25
+2025-01-20 14:50:54,630 - CpG_Detector - INFO - Dropout: 0.2
+2025-01-20 14:50:54,631 - CpG_Detector - INFO - Mean Squared Error (MSE): 5.1504
+2025-01-20 14:50:54,631 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.7988
+2025-01-20 14:50:54,632 - CpG_Detector - INFO - R-squared: -0.2390
+2025-01-20 14:52:47,397 - CpG_Detector - INFO - LSTM_HIDDEN: 256
+2025-01-20 14:52:47,399 - CpG_Detector - INFO - LSTM_LAYER: 3
+2025-01-20 14:52:47,401 - CpG_Detector - INFO - Learning Rate: 0.001
+2025-01-20 14:52:47,402 - CpG_Detector - INFO - Epochs: 25
+2025-01-20 14:52:47,403 - CpG_Detector - INFO - Dropout: 0.25
+2025-01-20 14:52:47,403 - CpG_Detector - INFO - Mean Squared Error (MSE): 4.4238
+2025-01-20 14:52:47,404 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.6465
+2025-01-20 14:52:47,404 - CpG_Detector - INFO - R-squared: -0.0642
+2025-01-20 14:53:25,609 - CpG_Detector - INFO - LSTM_HIDDEN: 256
+2025-01-20 14:53:25,610 - CpG_Detector - INFO - LSTM_LAYER: 3
+2025-01-20 14:53:25,611 - CpG_Detector - INFO - Learning Rate: 0.001
+2025-01-20 14:53:25,612 - CpG_Detector - INFO - Epochs: 25
+2025-01-20 14:53:25,612 - CpG_Detector - INFO - Dropout: 0.2
+2025-01-20 14:53:25,612 - CpG_Detector - INFO - Mean Squared Error (MSE): 29.5293
+2025-01-20 14:53:25,613 - CpG_Detector - INFO - Mean Absolute Error (MAE): 5.0371
+2025-01-20 14:53:25,613 - CpG_Detector - INFO - R-squared: -6.1038
+2025-01-20 14:54:12,169 - CpG_Detector - INFO - LSTM_HIDDEN: 256
+2025-01-20 14:54:12,171 - CpG_Detector - INFO - LSTM_LAYER: 3
+2025-01-20 14:54:12,172 - CpG_Detector - INFO - Learning Rate: 0.002
+2025-01-20 14:54:12,172 - CpG_Detector - INFO - Epochs: 25
+2025-01-20 14:54:12,173 - CpG_Detector - INFO - Dropout: 0.25
+2025-01-20 14:54:12,173 - CpG_Detector - INFO - Mean Squared Error (MSE): 29.5293
+2025-01-20 14:54:12,174 - CpG_Detector - INFO - Mean Absolute Error (MAE): 5.0371
+2025-01-20 14:54:12,174 - CpG_Detector - INFO - R-squared: -6.1038
+2025-01-20 15:03:42,180 - CpG_Detector - INFO - LSTM_HIDDEN: 256
+2025-01-20 15:03:42,182 - CpG_Detector - INFO - LSTM_LAYER: 3
+2025-01-20 15:03:42,183 - CpG_Detector - INFO - Learning Rate: 0.002
+2025-01-20 15:03:42,183 - CpG_Detector - INFO - Epochs: 25
+2025-01-20 15:03:42,183 - CpG_Detector - INFO - Dropout: 0.25
+2025-01-20 15:03:42,184 - CpG_Detector - INFO - Mean Squared Error (MSE): 29.5293
+2025-01-20 15:03:42,184 - CpG_Detector - INFO - Mean Absolute Error (MAE): 5.0371
+2025-01-20 15:03:42,185 - CpG_Detector - INFO - R-squared: -6.1038
+2025-01-20 15:05:16,402 - CpG_Detector - INFO - LSTM_HIDDEN: 512
+2025-01-20 15:05:16,404 - CpG_Detector - INFO - LSTM_LAYER: 2
+2025-01-20 15:05:16,405 - CpG_Detector - INFO - Learning Rate: 0.002
+2025-01-20 15:05:16,406 - CpG_Detector - INFO - Epochs: 25
+2025-01-20 15:05:16,406 - CpG_Detector - INFO - Dropout: 0.25
+2025-01-20 15:05:16,406 - CpG_Detector - INFO - Mean Squared Error (MSE): 5.0039
+2025-01-20 15:05:16,407 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.7656
+2025-01-20 15:05:16,407 - CpG_Detector - INFO - R-squared: -0.2038
+2025-01-20 15:09:05,900 - CpG_Detector - INFO - LSTM_HIDDEN: 512
+2025-01-20 15:09:05,902 - CpG_Detector - INFO - LSTM_LAYER: 2
+2025-01-20 15:09:05,903 - CpG_Detector - INFO - Learning Rate: 0.005
+2025-01-20 15:09:05,903 - CpG_Detector - INFO - Epochs: 40
+2025-01-20 15:09:05,904 - CpG_Detector - INFO - Dropout: 0.2
+2025-01-20 15:09:05,904 - CpG_Detector - INFO - Mean Squared Error (MSE): 4.5215
+2025-01-20 15:09:05,904 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.6309
+2025-01-20 15:09:05,905 - CpG_Detector - INFO - R-squared: -0.0877
+2025-01-20 16:20:43,778 - CpG_Detector - INFO - LSTM_HIDDEN: 512
+2025-01-20 16:20:43,780 - CpG_Detector - INFO - LSTM_LAYER: 2
+2025-01-20 16:20:43,781 - CpG_Detector - INFO - Learning Rate: 0.005
+2025-01-20 16:20:43,781 - CpG_Detector - INFO - Epochs: 50
+2025-01-20 16:20:43,782 - CpG_Detector - INFO - Dropout: 0.2
+2025-01-20 16:20:43,782 - CpG_Detector - INFO - Mean Squared Error (MSE): 5.7402
+2025-01-20 16:20:43,783 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.8887
+2025-01-20 16:20:43,783 - CpG_Detector - INFO - R-squared: -0.3809
+2025-01-20 16:25:32,141 - CpG_Detector - INFO - LSTM_HIDDEN: 512
+2025-01-20 16:25:32,144 - CpG_Detector - INFO - LSTM_LAYER: 2
+2025-01-20 16:25:32,145 - CpG_Detector - INFO - Learning Rate: 0.005
+2025-01-20 16:25:32,145 - CpG_Detector - INFO - Epochs: 50
+2025-01-20 16:25:32,145 - CpG_Detector - INFO - Dropout: 0.2
+2025-01-20 16:25:32,146 - CpG_Detector - INFO - Mean Squared Error (MSE): 5.7458
+2025-01-20 16:25:32,146 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.9133
+2025-01-20 16:25:32,147 - CpG_Detector - INFO - R-squared: -0.3823
+2025-01-20 17:21:01,795 - CpG_Detector - INFO - LSTM_HIDDEN: 512
+2025-01-20 17:21:01,797 - CpG_Detector - INFO - LSTM_LAYER: 2
+2025-01-20 17:21:01,798 - CpG_Detector - INFO - Learning Rate: 0.0001673184970683224
+2025-01-20 17:21:01,799 - CpG_Detector - INFO - Epochs: 50
+2025-01-20 17:21:01,799 - CpG_Detector - INFO - Dropout: 0.2
+2025-01-20 17:21:01,800 - CpG_Detector - INFO - Mean Squared Error (MSE): 4.2870
+2025-01-20 17:21:01,800 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.6328
+2025-01-20 17:21:01,801 - CpG_Detector - INFO - R-squared: -0.0313
+2025-01-20 17:21:32,771 - CpG_Detector - INFO - LSTM_HIDDEN: 512
+2025-01-20 17:21:32,773 - CpG_Detector - INFO - LSTM_LAYER: 2
+2025-01-20 17:21:32,774 - CpG_Detector - INFO - Learning Rate: 0.0001673184970683224
+2025-01-20 17:21:32,774 - CpG_Detector - INFO - Epochs: 50
+2025-01-20 17:21:32,775 - CpG_Detector - INFO - Dropout: 0.2
+2025-01-20 17:21:32,775 - CpG_Detector - INFO - Mean Squared Error (MSE): 4.3809
+2025-01-20 17:21:32,776 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.6152
+2025-01-20 17:21:32,777 - CpG_Detector - INFO - R-squared: -0.0539
+2025-01-20 19:54:05,307 - CpG_Detector - INFO - LSTM_HIDDEN: 47
+2025-01-20 19:54:05,307 - CpG_Detector - INFO - LSTM_HIDDEN: 47
+2025-01-20 19:54:05,309 - CpG_Detector - INFO - LSTM_LAYER: 3
+2025-01-20 19:54:05,309 - CpG_Detector - INFO - LSTM_LAYER: 3
+2025-01-20 19:54:05,310 - CpG_Detector - INFO - Learning Rate: 0.00044250989823939443
+2025-01-20 19:54:05,310 - CpG_Detector - INFO - Learning Rate: 0.00044250989823939443
+2025-01-20 19:54:05,311 - CpG_Detector - INFO - Epochs: 50
+2025-01-20 19:54:05,311 - CpG_Detector - INFO - Epochs: 50
+2025-01-20 19:54:05,312 - CpG_Detector - INFO - Dropout: 0.16562919794099484
+2025-01-20 19:54:05,312 - CpG_Detector - INFO - Dropout: 0.16562919794099484
+2025-01-20 19:54:05,313 - CpG_Detector - INFO - Mean Squared Error (MSE): 5.0469
+2025-01-20 19:54:05,313 - CpG_Detector - INFO - Mean Squared Error (MSE): 5.0469
+2025-01-20 19:54:05,314 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.7812
+2025-01-20 19:54:05,314 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.7812
+2025-01-20 19:54:05,315 - CpG_Detector - INFO - R-squared: -0.2141
+2025-01-20 19:54:05,315 - CpG_Detector - INFO - R-squared: -0.2141
+2025-01-20 19:55:23,289 - CpG_Detector - INFO - LSTM_HIDDEN: 47
+2025-01-20 19:55:23,289 - CpG_Detector - INFO - LSTM_HIDDEN: 47
+2025-01-20 19:55:23,291 - CpG_Detector - INFO - LSTM_LAYER: 3
+2025-01-20 19:55:23,291 - CpG_Detector - INFO - LSTM_LAYER: 3
+2025-01-20 19:55:23,292 - CpG_Detector - INFO - Learning Rate: 0.00044250989823939443
+2025-01-20 19:55:23,292 - CpG_Detector - INFO - Learning Rate: 0.00044250989823939443
+2025-01-20 19:55:23,293 - CpG_Detector - INFO - Epochs: 50
+2025-01-20 19:55:23,293 - CpG_Detector - INFO - Epochs: 50
+2025-01-20 19:55:23,294 - CpG_Detector - INFO - Dropout: 0.16562919794099484
+2025-01-20 19:55:23,294 - CpG_Detector - INFO - Dropout: 0.16562919794099484
+2025-01-20 19:55:23,295 - CpG_Detector - INFO - Mean Squared Error (MSE): 5.0469
+2025-01-20 19:55:23,295 - CpG_Detector - INFO - Mean Squared Error (MSE): 5.0469
+2025-01-20 19:55:23,296 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.7812
+2025-01-20 19:55:23,296 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.7812
+2025-01-20 19:55:23,297 - CpG_Detector - INFO - R-squared: -0.2141
+2025-01-20 19:55:23,297 - CpG_Detector - INFO - R-squared: -0.21412025-01-20 22:29:12,061 - CpG_Detector - INFO - 
+Evaluation Results with Padded Dataset:
+2025-01-20 22:29:12,061 - CpG_Detector - INFO - 
+Evaluation Results with Padded Dataset:
+2025-01-20 22:29:12,061 - CpG_Detector - INFO - 
+Evaluation Results with Padded Dataset:
+2025-01-20 22:29:12,069 - CpG_Detector - INFO - Hidden Size: 47
+2025-01-20 22:29:12,069 - CpG_Detector - INFO - Hidden Size: 47
+2025-01-20 22:29:12,069 - CpG_Detector - INFO - Hidden Size: 47
+2025-01-20 22:29:12,070 - CpG_Detector - INFO - LSTM Layers: 3
+2025-01-20 22:29:12,070 - CpG_Detector - INFO - LSTM Layers: 3
+2025-01-20 22:29:12,070 - CpG_Detector - INFO - LSTM Layers: 3
+2025-01-20 22:29:12,071 - CpG_Detector - INFO - Learning Rate: 0.00044250989823939443
+2025-01-20 22:29:12,071 - CpG_Detector - INFO - Learning Rate: 0.00044250989823939443
+2025-01-20 22:29:12,071 - CpG_Detector - INFO - Learning Rate: 0.00044250989823939443
+2025-01-20 22:29:12,072 - CpG_Detector - INFO - Dropout: 0.16562919794099484
+2025-01-20 22:29:12,072 - CpG_Detector - INFO - Dropout: 0.16562919794099484
+2025-01-20 22:29:12,072 - CpG_Detector - INFO - Dropout: 0.16562919794099484
+2025-01-20 22:29:12,074 - CpG_Detector - INFO - Mean Squared Error (MSE) with padding: 6.2734
+2025-01-20 22:29:12,074 - CpG_Detector - INFO - Mean Squared Error (MSE) with padding: 6.2734
+2025-01-20 22:29:12,074 - CpG_Detector - INFO - Mean Squared Error (MSE) with padding: 6.2734
+2025-01-20 22:29:12,075 - CpG_Detector - INFO - Mean Absolute Error (MAE) with padding: 2.0039
+2025-01-20 22:29:12,075 - CpG_Detector - INFO - Mean Absolute Error (MAE) with padding: 2.0039
+2025-01-20 22:29:12,075 - CpG_Detector - INFO - Mean Absolute Error (MAE) with padding: 2.0039
+2025-01-20 22:29:12,076 - CpG_Detector - INFO - R-squared with padding: -0.6027
+2025-01-20 22:29:12,076 - CpG_Detector - INFO - R-squared with padding: -0.6027
+2025-01-20 22:29:12,076 - CpG_Detector - INFO - R-squared with padding: -0.6027
+2025-01-20 22:29:35,466 - CpG_Detector - INFO - 
+Evaluation Results with Padded Dataset:
+2025-01-20 22:29:35,466 - CpG_Detector - INFO - 
+Evaluation Results with Padded Dataset:
+2025-01-20 22:29:35,466 - CpG_Detector - INFO - 
+Evaluation Results with Padded Dataset:
+2025-01-20 22:29:35,470 - CpG_Detector - INFO - Hidden Size: 47
+2025-01-20 22:29:35,470 - CpG_Detector - INFO - Hidden Size: 47
+2025-01-20 22:29:35,470 - CpG_Detector - INFO - Hidden Size: 47
+2025-01-20 22:29:35,472 - CpG_Detector - INFO - LSTM Layers: 3
+2025-01-20 22:29:35,472 - CpG_Detector - INFO - LSTM Layers: 3
+2025-01-20 22:29:35,472 - CpG_Detector - INFO - LSTM Layers: 3
+2025-01-20 22:29:35,474 - CpG_Detector - INFO - Learning Rate: 0.00044250989823939443
+2025-01-20 22:29:35,474 - CpG_Detector - INFO - Learning Rate: 0.00044250989823939443
+2025-01-20 22:29:35,474 - CpG_Detector - INFO - Learning Rate: 0.00044250989823939443
+2025-01-20 22:29:35,476 - CpG_Detector - INFO - Dropout: 0.16562919794099484
+2025-01-20 22:29:35,476 - CpG_Detector - INFO - Dropout: 0.16562919794099484
+2025-01-20 22:29:35,476 - CpG_Detector - INFO - Dropout: 0.16562919794099484
+2025-01-20 22:29:35,477 - CpG_Detector - INFO - Mean Squared Error (MSE) with padding: 6.2734
+2025-01-20 22:29:35,477 - CpG_Detector - INFO - Mean Squared Error (MSE) with padding: 6.2734
+2025-01-20 22:29:35,477 - CpG_Detector - INFO - Mean Squared Error (MSE) with padding: 6.2734
+2025-01-20 22:29:35,479 - CpG_Detector - INFO - Mean Absolute Error (MAE) with padding: 2.0039
+2025-01-20 22:29:35,479 - CpG_Detector - INFO - Mean Absolute Error (MAE) with padding: 2.0039
+2025-01-20 22:29:35,479 - CpG_Detector - INFO - Mean Absolute Error (MAE) with padding: 2.0039
+2025-01-20 22:29:35,480 - CpG_Detector - INFO - R-squared with padding: -0.6027
+2025-01-20 22:29:35,480 - CpG_Detector - INFO - R-squared with padding: -0.6027
+2025-01-20 22:29:35,480 - CpG_Detector - INFO - R-squared with padding: -0.6027
+2025-01-20 22:31:57,359 - CpG_Detector - INFO - 
+Evaluation Results with Padded Dataset:
+2025-01-20 22:31:57,359 - CpG_Detector - INFO - 
+Evaluation Results with Padded Dataset:
+2025-01-20 22:31:57,359 - CpG_Detector - INFO - 
+Evaluation Results with Padded Dataset:
+2025-01-20 22:31:57,362 - CpG_Detector - INFO - Hidden Size: 47
+2025-01-20 22:31:57,362 - CpG_Detector - INFO - Hidden Size: 47
+2025-01-20 22:31:57,362 - CpG_Detector - INFO - Hidden Size: 47
+2025-01-20 22:31:57,363 - CpG_Detector - INFO - LSTM Layers: 3
+2025-01-20 22:31:57,363 - CpG_Detector - INFO - LSTM Layers: 3
+2025-01-20 22:31:57,363 - CpG_Detector - INFO - LSTM Layers: 3
+2025-01-20 22:31:57,367 - CpG_Detector - INFO - Learning Rate: 0.00044250989823939443
+2025-01-20 22:31:57,367 - CpG_Detector - INFO - Learning Rate: 0.00044250989823939443
+2025-01-20 22:31:57,367 - CpG_Detector - INFO - Learning Rate: 0.00044250989823939443
+2025-01-20 22:31:57,369 - CpG_Detector - INFO - Dropout: 0.16562919794099484
+2025-01-20 22:31:57,369 - CpG_Detector - INFO - Dropout: 0.16562919794099484
+2025-01-20 22:31:57,369 - CpG_Detector - INFO - Dropout: 0.16562919794099484
+2025-01-20 22:31:57,370 - CpG_Detector - INFO - Mean Squared Error (MSE) with padding: 6.2734
+2025-01-20 22:31:57,370 - CpG_Detector - INFO - Mean Squared Error (MSE) with padding: 6.2734
+2025-01-20 22:31:57,370 - CpG_Detector - INFO - Mean Squared Error (MSE) with padding: 6.2734
+2025-01-20 22:31:57,371 - CpG_Detector - INFO - Mean Absolute Error (MAE) with padding: 2.0039
+2025-01-20 22:31:57,371 - CpG_Detector - INFO - Mean Absolute Error (MAE) with padding: 2.0039
+2025-01-20 22:31:57,371 - CpG_Detector - INFO - Mean Absolute Error (MAE) with padding: 2.0039
+2025-01-20 22:31:57,372 - CpG_Detector - INFO - R-squared with padding: -0.6027
+2025-01-20 22:31:57,372 - CpG_Detector - INFO - R-squared with padding: -0.6027
+2025-01-20 22:31:57,372 - CpG_Detector - INFO - R-squared with padding: -0.6027
+2025-01-20 22:41:08,560 - CpG_Detector - INFO - LSTM_HIDDEN: 47
+2025-01-20 22:41:08,560 - CpG_Detector - INFO - LSTM_HIDDEN: 47
+2025-01-20 22:41:08,560 - CpG_Detector - INFO - LSTM_HIDDEN: 47
+2025-01-20 22:41:08,566 - CpG_Detector - INFO - LSTM_LAYER: 3
+2025-01-20 22:41:08,566 - CpG_Detector - INFO - LSTM_LAYER: 3
+2025-01-20 22:41:08,566 - CpG_Detector - INFO - LSTM_LAYER: 3
+2025-01-20 22:41:08,567 - CpG_Detector - INFO - Learning Rate: 0.005
+2025-01-20 22:41:08,567 - CpG_Detector - INFO - Learning Rate: 0.005
+2025-01-20 22:41:08,567 - CpG_Detector - INFO - Learning Rate: 0.005
+2025-01-20 22:41:08,569 - CpG_Detector - INFO - Epochs: 50
+2025-01-20 22:41:08,569 - CpG_Detector - INFO - Epochs: 50
+2025-01-20 22:41:08,569 - CpG_Detector - INFO - Epochs: 50
+2025-01-20 22:41:08,570 - CpG_Detector - INFO - Dropout: 0.2
+2025-01-20 22:41:08,570 - CpG_Detector - INFO - Dropout: 0.2
+2025-01-20 22:41:08,570 - CpG_Detector - INFO - Dropout: 0.2
+2025-01-20 22:41:08,571 - CpG_Detector - INFO - Mean Squared Error (MSE): 4.8262
+2025-01-20 22:41:08,571 - CpG_Detector - INFO - Mean Squared Error (MSE): 4.8262
+2025-01-20 22:41:08,571 - CpG_Detector - INFO - Mean Squared Error (MSE): 4.8262
+2025-01-20 22:41:08,572 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.7129
+2025-01-20 22:41:08,572 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.7129
+2025-01-20 22:41:08,572 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.7129
+2025-01-20 22:41:08,573 - CpG_Detector - INFO - R-squared: -0.1610
+2025-01-20 22:41:08,573 - CpG_Detector - INFO - R-squared: -0.1610
+2025-01-20 22:41:08,573 - CpG_Detector - INFO - R-squared: -0.1610
+2025-01-20 22:46:38,614 - CpG_Detector - INFO - LSTM_HIDDEN: 47
+2025-01-20 22:46:38,614 - CpG_Detector - INFO - LSTM_HIDDEN: 47
+2025-01-20 22:46:38,614 - CpG_Detector - INFO - LSTM_HIDDEN: 47
+2025-01-20 22:46:38,620 - CpG_Detector - INFO - LSTM_LAYER: 3
+2025-01-20 22:46:38,620 - CpG_Detector - INFO - LSTM_LAYER: 3
+2025-01-20 22:46:38,620 - CpG_Detector - INFO - LSTM_LAYER: 3
+2025-01-20 22:46:38,622 - CpG_Detector - INFO - Learning Rate: 0.00044250989823939443
+2025-01-20 22:46:38,622 - CpG_Detector - INFO - Learning Rate: 0.00044250989823939443
+2025-01-20 22:46:38,622 - CpG_Detector - INFO - Learning Rate: 0.00044250989823939443
+2025-01-20 22:46:38,623 - CpG_Detector - INFO - Epochs: 50
+2025-01-20 22:46:38,623 - CpG_Detector - INFO - Epochs: 50
+2025-01-20 22:46:38,623 - CpG_Detector - INFO - Epochs: 50
+2025-01-20 22:46:38,625 - CpG_Detector - INFO - Dropout: 0.16562919794099484
+2025-01-20 22:46:38,625 - CpG_Detector - INFO - Dropout: 0.16562919794099484
+2025-01-20 22:46:38,625 - CpG_Detector - INFO - Dropout: 0.16562919794099484
+2025-01-20 22:46:38,626 - CpG_Detector - INFO - Mean Squared Error (MSE): 5.3203
+2025-01-20 22:46:38,626 - CpG_Detector - INFO - Mean Squared Error (MSE): 5.3203
+2025-01-20 22:46:38,626 - CpG_Detector - INFO - Mean Squared Error (MSE): 5.3203
+2025-01-20 22:46:38,627 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.7891
+2025-01-20 22:46:38,627 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.7891
+2025-01-20 22:46:38,627 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.7891
+2025-01-20 22:46:38,628 - CpG_Detector - INFO - R-squared: -0.2799
+2025-01-20 22:46:38,628 - CpG_Detector - INFO - R-squared: -0.2799
+2025-01-20 22:46:38,628 - CpG_Detector - INFO - R-squared: -0.2799
+2025-01-20 23:14:50,873 - CpG_Detector - INFO - LSTM_HIDDEN: 47
+2025-01-20 23:14:50,874 - CpG_Detector - INFO - LSTM_LAYER: 3
+2025-01-20 23:14:50,875 - CpG_Detector - INFO - Learning Rate: 0.00044250989823939443
+2025-01-20 23:14:50,875 - CpG_Detector - INFO - Epochs: 50
+2025-01-20 23:14:50,877 - CpG_Detector - INFO - Dropout: 0.16562919794099484
+2025-01-20 23:14:50,877 - CpG_Detector - INFO - Mean Squared Error (MSE): 5.6582
+2025-01-20 23:14:50,878 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.9004
+2025-01-20 23:14:50,878 - CpG_Detector - INFO - R-squared: -0.3612
+2025-01-20 23:15:08,309 - CpG_Detector - INFO - 
+Evaluation Results with Padded Dataset:
+2025-01-20 23:15:08,311 - CpG_Detector - INFO - Hidden Size: 47
+2025-01-20 23:15:08,312 - CpG_Detector - INFO - LSTM Layers: 3
+2025-01-20 23:15:08,313 - CpG_Detector - INFO - Learning Rate: 0.00044250989823939443
+2025-01-20 23:15:08,313 - CpG_Detector - INFO - Dropout: 0.16562919794099484
+2025-01-20 23:15:08,314 - CpG_Detector - INFO - Mean Squared Error (MSE) with padding: 5.8164
+2025-01-20 23:15:08,314 - CpG_Detector - INFO - Mean Absolute Error (MAE) with padding: 1.8867
+2025-01-20 23:15:08,314 - CpG_Detector - INFO - R-squared with padding: -0.4860
+2025-01-20 23:15:09,598 - CpG_Detector - INFO - 
+Evaluation Results with Padded Dataset:
+2025-01-20 23:15:09,600 - CpG_Detector - INFO - Hidden Size: 47
+2025-01-20 23:15:09,601 - CpG_Detector - INFO - LSTM Layers: 3
+2025-01-20 23:15:09,601 - CpG_Detector - INFO - Learning Rate: 0.00044250989823939443
+2025-01-20 23:15:09,603 - CpG_Detector - INFO - Dropout: 0.16562919794099484
+2025-01-20 23:15:09,603 - CpG_Detector - INFO - Mean Squared Error (MSE) with padding: 5.8164
+2025-01-20 23:15:09,604 - CpG_Detector - INFO - Mean Absolute Error (MAE) with padding: 1.8867
+2025-01-20 23:15:09,604 - CpG_Detector - INFO - R-squared with padding: -0.4860
+2025-01-21 04:16:37,273 - CpG_Detector - INFO - LSTM_HIDDEN: 182
+2025-01-21 04:16:37,276 - CpG_Detector - INFO - LSTM_LAYER: 3
+2025-01-21 04:16:37,278 - CpG_Detector - INFO - Learning Rate: 0.00029717672681433286
+2025-01-21 04:16:37,279 - CpG_Detector - INFO - Epochs: 50
+2025-01-21 04:16:37,280 - CpG_Detector - INFO - Dropout: 0.13181082181497766
+2025-01-21 04:16:37,281 - CpG_Detector - INFO - Mean Squared Error (MSE): 0.6357
+2025-01-21 04:16:37,282 - CpG_Detector - INFO - Mean Absolute Error (MAE): 0.5566
+2025-01-21 04:16:37,282 - CpG_Detector - INFO - R-squared: 0.8484
+2025-01-21 04:17:28,666 - CpG_Detector - INFO - Train Evaluation
+2025-01-21 04:17:28,669 - CpG_Detector - INFO - LSTM_HIDDEN: 182
+2025-01-21 04:17:28,670 - CpG_Detector - INFO - LSTM_LAYER: 3
+2025-01-21 04:17:28,671 - CpG_Detector - INFO - Learning Rate: 0.00029717672681433286
+2025-01-21 04:17:28,674 - CpG_Detector - INFO - Epochs: 50
+2025-01-21 04:17:28,675 - CpG_Detector - INFO - Dropout: 0.13181082181497766
+2025-01-21 04:17:28,676 - CpG_Detector - INFO - Mean Squared Error (MSE): 0.6357
+2025-01-21 04:17:28,677 - CpG_Detector - INFO - Mean Absolute Error (MAE): 0.5566
+2025-01-21 04:17:28,678 - CpG_Detector - INFO - R-squared: 0.8484
+2025-01-21 04:18:41,023 - CpG_Detector - INFO - Test Evaluation
+2025-01-21 04:18:41,025 - CpG_Detector - INFO - LSTM_HIDDEN: 182
+2025-01-21 04:18:41,025 - CpG_Detector - INFO - LSTM_LAYER: 3
+2025-01-21 04:18:41,026 - CpG_Detector - INFO - Learning Rate: 0.00029717672681433286
+2025-01-21 04:18:41,026 - CpG_Detector - INFO - Epochs: 50
+2025-01-21 04:18:41,026 - CpG_Detector - INFO - Dropout: 0.13181082181497766
+2025-01-21 04:18:41,027 - CpG_Detector - INFO - Mean Squared Error (MSE): 5.5352
+2025-01-21 04:18:41,028 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.8828
+2025-01-21 04:18:41,029 - CpG_Detector - INFO - R-squared: -0.3316
+2025-01-21 04:19:35,908 - CpG_Detector - INFO - 
+Evaluation Results with Padded Dataset:
+2025-01-21 04:19:35,912 - CpG_Detector - INFO - Hidden Size: 182
+2025-01-21 04:19:35,914 - CpG_Detector - INFO - LSTM Layers: 3
+2025-01-21 04:19:35,915 - CpG_Detector - INFO - Learning Rate: 0.00029717672681433286
+2025-01-21 04:19:35,915 - CpG_Detector - INFO - Dropout: 0.13181082181497766
+2025-01-21 04:19:35,916 - CpG_Detector - INFO - Mean Squared Error (MSE) with padding: 6.9629
+2025-01-21 04:19:35,924 - CpG_Detector - INFO - Mean Absolute Error (MAE) with padding: 2.0254
+2025-01-21 04:19:35,926 - CpG_Detector - INFO - R-squared with padding: -0.7789
+2025-01-21 04:21:01,375 - CpG_Detector - INFO - 
+Evaluation Results with Padded Train Dataset:
+2025-01-21 04:21:01,378 - CpG_Detector - INFO - Hidden Size: 182
+2025-01-21 04:21:01,380 - CpG_Detector - INFO - LSTM Layers: 3
+2025-01-21 04:21:01,382 - CpG_Detector - INFO - Learning Rate: 0.00029717672681433286
+2025-01-21 04:21:01,382 - CpG_Detector - INFO - Dropout: 0.13181082181497766
+2025-01-21 04:21:01,383 - CpG_Detector - INFO - Mean Squared Error (MSE) with padding: 6.9629
+2025-01-21 04:21:01,384 - CpG_Detector - INFO - Mean Absolute Error (MAE) with padding: 2.0254
+2025-01-21 04:21:01,385 - CpG_Detector - INFO - R-squared with padding: -0.7789
+2025-01-21 04:21:40,542 - CpG_Detector - INFO - 
+Evaluation Results with Padded Test Dataset:
+2025-01-21 04:21:40,544 - CpG_Detector - INFO - Hidden Size: 182
+2025-01-21 04:21:40,545 - CpG_Detector - INFO - LSTM Layers: 3
+2025-01-21 04:21:40,546 - CpG_Detector - INFO - Learning Rate: 0.00029717672681433286
+2025-01-21 04:21:40,546 - CpG_Detector - INFO - Dropout: 0.13181082181497766
+2025-01-21 04:21:40,547 - CpG_Detector - INFO - Mean Squared Error (MSE) with padding: 6.9629
+2025-01-21 04:21:40,548 - CpG_Detector - INFO - Mean Absolute Error (MAE) with padding: 2.0254
+2025-01-21 04:21:40,549 - CpG_Detector - INFO - R-squared with padding: -0.7789
+2025-01-21 16:19:58,079 - CpG_Detector - INFO - 
+Evaluation Results with Padded Train Dataset:
+2025-01-21 16:19:58,084 - CpG_Detector - INFO - Hidden Size: 182
+2025-01-21 16:19:58,085 - CpG_Detector - INFO - LSTM Layers: 3
+2025-01-21 16:19:58,087 - CpG_Detector - INFO - Learning Rate: 0.00029717672681433286
+2025-01-21 16:19:58,087 - CpG_Detector - INFO - Dropout: 0.13181082181497766
+2025-01-21 16:19:58,088 - CpG_Detector - INFO - Mean Squared Error (MSE) with padding: 6.9629
+2025-01-21 16:19:58,089 - CpG_Detector - INFO - Mean Absolute Error (MAE) with padding: 2.0254
+2025-01-21 16:19:58,090 - CpG_Detector - INFO - R-squared with padding: -0.7789
+2025-01-21 16:20:15,403 - CpG_Detector - INFO - 
+Evaluation Results with Padded Test Dataset:
+2025-01-21 16:20:15,408 - CpG_Detector - INFO - Hidden Size: 182
+2025-01-21 16:20:15,409 - CpG_Detector - INFO - LSTM Layers: 3
+2025-01-21 16:20:15,410 - CpG_Detector - INFO - Learning Rate: 0.00029717672681433286
+2025-01-21 16:20:15,410 - CpG_Detector - INFO - Dropout: 0.13181082181497766
+2025-01-21 16:20:15,411 - CpG_Detector - INFO - Mean Squared Error (MSE) with padding: 6.9629
+2025-01-21 16:20:15,412 - CpG_Detector - INFO - Mean Absolute Error (MAE) with padding: 2.0254
+2025-01-21 16:20:15,412 - CpG_Detector - INFO - R-squared with padding: -0.7789
+2025-01-21 19:01:29,632 - CpG_Detector - INFO - 
+Evaluation Results with Padded Train Dataset:
+2025-01-21 19:01:29,636 - CpG_Detector - INFO - Hidden Size: 182
+2025-01-21 19:01:29,637 - CpG_Detector - INFO - LSTM Layers: 3
+2025-01-21 19:01:29,638 - CpG_Detector - INFO - Learning Rate: 0.00029717672681433286
+2025-01-21 19:01:29,639 - CpG_Detector - INFO - Dropout: 0.13181082181497766
+2025-01-21 19:01:29,639 - CpG_Detector - INFO - Mean Squared Error (MSE) with padding: 4.0996
+2025-01-21 19:01:29,640 - CpG_Detector - INFO - Mean Absolute Error (MAE) with padding: 1.5879
+2025-01-21 19:01:29,640 - CpG_Detector - INFO - R-squared with padding: -0.0474
+2025-01-21 19:01:33,856 - CpG_Detector - INFO - 
+Evaluation Results with Padded Test Dataset:
+2025-01-21 19:01:33,857 - CpG_Detector - INFO - Hidden Size: 182
+2025-01-21 19:01:33,858 - CpG_Detector - INFO - LSTM Layers: 3
+2025-01-21 19:01:33,859 - CpG_Detector - INFO - Learning Rate: 0.00029717672681433286
+2025-01-21 19:01:33,859 - CpG_Detector - INFO - Dropout: 0.13181082181497766
+2025-01-21 19:01:33,860 - CpG_Detector - INFO - Mean Squared Error (MSE) with padding: 4.0996
+2025-01-21 19:01:33,860 - CpG_Detector - INFO - Mean Absolute Error (MAE) with padding: 1.5879
+2025-01-21 19:01:33,861 - CpG_Detector - INFO - R-squared with padding: -0.0474
+2025-01-21 19:16:14,183 - CpG_Detector - INFO - 
+Evaluation Results with Padded Train Dataset:
+2025-01-21 19:16:14,186 - CpG_Detector - INFO - Hidden Size: 182
+2025-01-21 19:16:14,187 - CpG_Detector - INFO - LSTM Layers: 3
+2025-01-21 19:16:14,189 - CpG_Detector - INFO - Learning Rate: 0.00029717672681433286
+2025-01-21 19:16:14,190 - CpG_Detector - INFO - Dropout: 0.13181082181497766
+2025-01-21 19:16:14,191 - CpG_Detector - INFO - Mean Squared Error (MSE) with padding: 4.0996
+2025-01-21 19:16:14,192 - CpG_Detector - INFO - Mean Absolute Error (MAE) with padding: 1.5879
+2025-01-21 19:16:14,192 - CpG_Detector - INFO - R-squared with padding: -0.0474
+2025-01-21 19:16:20,799 - CpG_Detector - INFO - 
+Evaluation Results with Padded Test Dataset:
+2025-01-21 19:16:20,802 - CpG_Detector - INFO - Hidden Size: 182
+2025-01-21 19:16:20,804 - CpG_Detector - INFO - LSTM Layers: 3
+2025-01-21 19:16:20,805 - CpG_Detector - INFO - Learning Rate: 0.00029717672681433286
+2025-01-21 19:16:20,806 - CpG_Detector - INFO - Dropout: 0.13181082181497766
+2025-01-21 19:16:20,806 - CpG_Detector - INFO - Mean Squared Error (MSE) with padding: 4.0996
+2025-01-21 19:16:20,807 - CpG_Detector - INFO - Mean Absolute Error (MAE) with padding: 1.5879
+2025-01-21 19:16:20,808 - CpG_Detector - INFO - R-squared with padding: -0.0474
+2025-01-21 19:24:56,923 - CpG_Detector - INFO - Train Evaluation
+2025-01-21 19:24:56,924 - CpG_Detector - INFO - LSTM_HIDDEN: 182
+2025-01-21 19:24:56,926 - CpG_Detector - INFO - LSTM_LAYER: 3
+2025-01-21 19:24:56,927 - CpG_Detector - INFO - Learning Rate: 0.00029717672681433286
+2025-01-21 19:24:56,928 - CpG_Detector - INFO - Epochs: 50
+2025-01-21 19:24:56,929 - CpG_Detector - INFO - Dropout: 0.13181082181497766
+2025-01-21 19:24:56,930 - CpG_Detector - INFO - Mean Squared Error (MSE): 0.4390
+2025-01-21 19:24:56,931 - CpG_Detector - INFO - Mean Absolute Error (MAE): 0.4282
+2025-01-21 19:24:56,931 - CpG_Detector - INFO - R-squared: 0.8953
+2025-01-21 19:25:04,565 - CpG_Detector - INFO - Test Evaluation
+2025-01-21 19:25:04,566 - CpG_Detector - INFO - LSTM_HIDDEN: 182
+2025-01-21 19:25:04,567 - CpG_Detector - INFO - LSTM_LAYER: 3
+2025-01-21 19:25:04,568 - CpG_Detector - INFO - Learning Rate: 0.00029717672681433286
+2025-01-21 19:25:04,569 - CpG_Detector - INFO - Epochs: 50
+2025-01-21 19:25:04,570 - CpG_Detector - INFO - Dropout: 0.13181082181497766
+2025-01-21 19:25:04,571 - CpG_Detector - INFO - Mean Squared Error (MSE): 5.5352
+2025-01-21 19:25:04,572 - CpG_Detector - INFO - Mean Absolute Error (MAE): 1.8828
+2025-01-21 19:25:04,573 - CpG_Detector - INFO - R-squared: -0.3316
