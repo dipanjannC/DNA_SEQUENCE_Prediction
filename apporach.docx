@@ -1,0 +1,45 @@
+Objective 
+
+Goal: Predict CpG count in 128-nucleotide DNA sequences.
+Data: Randomly generated sequences, labeled by actual CpG counts.
+Model: LSTM network with a fully connected output layer and ReLU activation.
+Training: Adam optimizer, MSE loss, Optuna hyperparameter tuning (hidden size, layers, dropout, learning rate), and basic Early Stopping on training loss.
+
+
+
+1. How you arrived at this approach and why you believe it is the most suitable for this task.
+
+Key Steps: 
+1. Understanding the data generated. 
+2. Create baseline model.
+3. Choosing loss and optimizer functions.
+4. Hyperparameter Tuning.
+5. Evaluation.
+
+Implementation:
+A basic LSTM was chosen, combined with a fully connected layer for regression, and a ReLU activation for positive output.
+
+Hyperparameter Tuning with Optuna:
+Given the number of hyperparameters involved with an LSTM, it makes sense to use Optuna.
+The goal was to find optimal settings for hidden_size, num_layers, dropout, and learning_rate to maximize model performance based on the MSE loss.
+
+Evaluation:
+MSE, MAE, R-squared on training and test data, results suggest overfitting.
+
+
+2. Any alternative methods you considered and why you decided against them.
+
+Thoughts and Implementation : 
+
+- Extensive LSTM Network: The initial approach aimed for a simple LSTM network .
+- ReLU Activation: ReLU was used in the final layer to ensure non-negative predictions as the output ranges (0,inf)
+- PyTorch Padding: Utilizing PyTorch's built-in padding functions streamlined data processing. 
+- Hyperparameter Tuning for Variable Length DNA Sequence: Comprehensive hyperparameter tuning is essential, but a time-intensive process.
+- Retraining for Variable Lengths: Retraining was done to ensure accurate results when the DNA integer mapping changed.
+- Padding Value Update: Padding value was changed to 1000 to avoid interfering with training with variable-length inputs.
+- Custom Layer Addition: Planned addition of custom layers was omitted due to time constraints and could be explored in further iterations.
+
+Major Reasons:
+- Time : Due to time constraints, some of the more time-intensive evaluation into alternatives and more comprehensive hyperparameter tuning.
+
+
